@@ -3,8 +3,8 @@ import { RenderTime } from "./RenderTime"
 
 function App() {
   return (
-    // <Text />
-    <RenderTime />
+    <Text />
+    // <RenderTime />
   );
 }
 
