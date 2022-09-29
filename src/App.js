@@ -1,10 +1,14 @@
 import { Text } from "./Text";
 import { RenderTime } from "./RenderTime"
+import { Past } from "./Past"
+import { Try } from "./Try";
 
 function App() {
   return (
-    <Text />
+    // <Text />
     // <RenderTime />
+    // <Past />
+    <Try />
   );
 }
 
